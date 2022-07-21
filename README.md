@@ -4,7 +4,7 @@ A C++ app that will convert from and to various types useful for programming.
 
 Features:
   1. Convert from:
-    -Binary
+    ..1. Binary
     -Hexadecimal
     -Floating-point
     -String
