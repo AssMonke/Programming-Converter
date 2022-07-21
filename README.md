@@ -1,5 +1,5 @@
 # Programming-Converter
-<pre>
+
 A C++ app that will convert from and to various types useful for programming. 
 
 Features:
@@ -31,4 +31,3 @@ Features:
   
 Made with C++/CLR
 https://marketplace.visualstudio.com/items?itemName=RichardKaiser.CppWinformsVS2019VSIX001
-</pre>
