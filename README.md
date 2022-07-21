@@ -4,10 +4,10 @@ A C++ app that will convert from and to various types useful for programming.
 
 Features:
   1. Convert from:
-    - Binary
-    - Hexadecimal
-    - Floating-point
-    - String
+    2. Binary
+    3. Hexadecimal
+    4. Floating-point
+    5. String
   2. Convert to:
     - 8 bit binary
     - 16 bit binary
