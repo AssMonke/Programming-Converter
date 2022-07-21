@@ -27,6 +27,8 @@ Features:
   -Convert from/to signed variations
   -Round floats to any place
   
+![](images/screenshot1.png)
+  
 Made with C++/CLR
 https://marketplace.visualstudio.com/items?itemName=RichardKaiser.CppWinformsVS2019VSIX001
 </pre>
